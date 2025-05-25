@@ -7,10 +7,10 @@
 <h3> Qompass AI on Fedora </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-fedora)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/fedora/total?style=flat-square)
+
   <a href="https://getfedora.org/">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
-  ![GitHub all releases](https://img.shields.io/github/downloads/qompassai/fedora/total?style=flat-square)
-
 </a>
 <br>
 <a href="https://docs.fedoraproject.org/">
